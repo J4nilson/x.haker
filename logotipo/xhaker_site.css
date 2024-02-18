@@ -1,0 +1,333 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lemon&family=Noto+Sans+JP:wght@200;300;400;500;600;700&family=Rubik+Doodle+Shadow&family=Rubik+Maps&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lato:ital,wght@0,400;1,700&family=Lemon&family=Noto+Sans+JP:wght@200;300;400;500;600;700&family=Rubik+Doodle+Shadow&family=Rubik+Maps&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lato:ital,wght@0,400;1,700&family=Lemon&family=Noto+Sans+JP:wght@200;300;400;500;600;700&family=Protest+Guerrilla&family=Rubik+Doodle+Shadow&family=Rubik+Maps&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lato:ital,wght@0,400;1,700&family=Lemon&family=Noto+Sans+JP:wght@200;300;400;500;600;700&family=Protest+Guerrilla&family=Protest+Revolution&family=Rubik+Doodle+Shadow&family=Rubik+Maps&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Kanit:ital,wght@0,300;0,600;1,900&family=Lato:ital,wght@0,400;1,700&family=Lemon&family=Noto+Sans+JP:wght@200;300;400;500;600;700&family=Protest+Guerrilla&family=Protest+Revolution&family=Rubik+Doodle+Shadow&family=Rubik+Maps&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Kanit:ital,wght@0,300;0,600;1,900&family=Lato:ital,wght@0,400;1,700&family=Lemon&family=Noto+Sans+JP:wght@200;300;400;500;600;700&family=Protest+Guerrilla&family=Protest+Revolution&family=Roboto:ital,wght@1,700&family=Rubik+Doodle+Shadow&family=Rubik+Maps&display=swap');
+@font-face {
+    font-family: "idorid";
+    src: url("IDroid_Bold_Italic.otf") format("opentype");
+}
+img{
+    width: 100%;
+    max-width: auto;
+}
+body{
+    max-width: 100%;
+}
+*{
+    max-width: 100%;
+    margin-left:0em;
+    margin-right: 0em;
+}
+img{
+    max-width: 100%;
+    max-height: 100%;
+    margin-left:0%;
+    margin-right: 0%;
+}
+
+header#logo{
+    background-image: linear-gradient(to right,#49098a,rgb(17, 8, 65) );
+    padding-left: 22em;
+    border-bottom: 0em;
+    height: 600px;
+    
+}
+body{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+}
+img#inicio{
+    width:800px ;
+    height: 550px;
+    display: inline;
+}
+img#log{
+    display: inline;
+    width: 50px;
+    height: 50px;
+    padding-bottom: 471px;
+    margin-left: -1110px;
+}
+ul{
+    display: inline;
+    margin-left:-14px;
+    position: relative;
+    top:-487px;
+
+    
+}
+li{
+    display: inline;
+    font-size: 1.6em;
+    color: white;
+    padding: 10px;
+
+}
+li:hover{
+    background-color: #7b1181;
+    border-radius: 1em;
+    transition-duration: 1s;
+}
+img#login{
+    width: 54px;
+    height: 51px;
+    position:relative;
+    top:-498px;
+    left: 891px;
+}
+h3#tlog{
+    height: 5px;
+    width: 5px;
+    position: relative;
+    top: -527px;
+    left: 1106px;
+    color: white;
+}
+img#novo{
+    display: inline;
+    width: 711px;
+    height: 615px;
+    position: relative;
+    bottom: 540px;
+    left: -577px;
+}
+h1#a1{
+    font-family: "Mulish";
+    position: relative;
+    left: 399px;
+    top: 61px;
+    font-size: 50px;
+    color: #ffffff;
+    font-weight: 900;
+    background-image: linear-gradient(to left,red,blue, purple);
+    padding-left: 78px;
+    margin-right: 800px;
+}
+img#cria{
+    position: relative;
+    bottom: 83px;
+    left: 184px;
+}
+p#crias{
+    position: relative;
+    top: -190px;
+    left: 600px;
+    font-size: 1.5em;
+    font-family: "Lato";
+    margin: 0px;
+    padding: 0px;
+
+
+}
+a#a1{
+    color: #49098a;
+    font-size: 1.6;
+    text-decoration: none;
+
+}
+#termo{
+    font-family: "Protest Guerrilla";
+    font-size: 2.6em;
+    position: relative;
+    top: 3em;
+    left: 12em;
+    color: rgb(170, 0, 212);
+}
+h2.corsi{
+    background-image: linear-gradient(to left,rgb(69, 36, 202),rgb(145, 11, 179));
+    color:white;
+    padding-left: 29em;
+    padding-bottom: 0.5em;
+    padding-top: 0.5em;
+    position: relative;
+    top: 10em;
+}
+h2.corsi:hover{
+    background-image: linear-gradient(to left, blue,purple,blue);
+
+}
+img.modiimg{
+    width: 100%;
+    max-width: 200em;
+    min-width: 5em;
+    height: 17em;
+    width: 22em;
+    position: relative;
+    top: 15em;
+    left: 3em;
+    border-radius: 1em;
+}
+img.modiimg:hover{
+    height: 19em;
+    width: 24em;
+}
+h2#des{
+    color: rgb(234, 0, 255);
+    position: relative;
+    top: 8em;
+    left: 14em;
+    font-size: 3em;
+    
+}
+img#disi{
+    position: relative;
+    top: 26em;
+    left: 31em;
+    height: 37em;
+    width: 35em;
+    border-radius: 1.5em;
+}
+img#disi2{
+    position: relative;
+    top: 26em;
+    left: 31.5em;
+    height: 30em;
+    width: 23em;
+    border-radius: 1.5em;
+}
+img#disi3{
+    position: relative;
+    top: 26em;
+    left: -51.3em;
+    height: 30em;
+    width: 23em;
+    border-radius: 1.5em;
+}
+
+div#riba{
+    background-image: linear-gradient(to right,#49098a,rgb(17, 8, 65) );
+}
+img.a:hover{
+    box-shadow: -1em 1em 1em rgba(0, 0, 0, 0.24);
+}
+img.a{
+    width: 100%;
+}
+
+ul#ss{
+    display: inline;
+    color: black;
+    position: relative;
+    top: 16em;
+    left: 9em;
+}
+.ll{
+    font-family: "kanit";
+    color:rgb(70, 9, 201);
+    font-weight: bolder;
+    font-size:1.5em;
+}
+.ll:hover{
+    border-color:#1e0eb5;
+    border-style: solid;
+    background-color: white;
+}
+#l1{
+    position: relative;
+    top:0em;
+    left:0em;
+}
+#l2{
+    position: relative;
+    left: 12em;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+#l3{
+    position: relative;
+    left:22em;
+}
+#l4{
+    position: relative;
+    left:31em;
+}
+div#xhaker{
+    font-family: "roboto";
+    font-size: 2.5em;
+
+
+}
+h2#x{
+    position: relative;
+    top:21em;
+    left:10em;
+    background: linear-gradient(#0000ff,rgb(119, 11, 162),#ff0000); 
+    color:#49098a;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    padding-left:0em;
+    padding-right: 0em;
+    transition-duration: 1s;
+    margin-left:0em;
+    margin-right: 0em;
+
+}
+h2#x:hover::after{
+    content: " RUMO AO FUTURO";
+
+  
+}
+h2#x:hover{
+    text-decoration: solid;
+    text-decoration-color: #a600ff;
+    position: relative;
+    left:6em;
+}
+footer{
+    position: relative;
+    top: 76em;
+    left:0em;
+    background-image: linear-gradient(to bottom,red 10%,blue 80%);
+    height: 42em;
+}
+img#img_rod{
+    height: 9em;
+    width: 9em;
+    position: relative;
+    top: 6em;
+    left: 4em;
+}
+h2#men{
+    color:white;
+    position: relative;
+    top:0em;
+    left:10em;
+    font-size: 1.8em;
+}
+ul#mem{
+    color:white;
+    position: relative;
+    display: block;
+    top:0em;
+    left:16em;
+}
+li.lm{
+    display: block;
+    margin-right: 45em;
+}
+li.lm:hover{
+    background-image: linear-gradient(to right,rgb(219, 86, 86) 0%,transparent 100%);
+    border-top-left-radius: 0em;
+    border-top-right-radius: 0em;
+    border-bottom-right-radius: 0em;
+}
+h2#dc{
+    color: white;
+    position: relative;
+    top: -10em;
+    left: 26em;
+    font-size: 2em;
+}
+p#descreve{
+    color: white;
+    font-size: 1.3em;
+    line-height: 1.5em;
+    position: relative;
+    top: -13em;
+    left: 31em;
+}
